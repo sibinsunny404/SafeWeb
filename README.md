@@ -8,7 +8,7 @@
             <li class="step"><h4>Clone or Download the Repository:</h4></li>
             <p>Clone or download the project repository from GitHub to your local machine.</p>
             <li class="step"><h4>Add Your VirusTotal API Key:</h4></li>
-            <p>Open <span class="code">popup.js</span> and replace <span class="code">'YOUR_VIRUSTOTAL_API_KEY'</span> with your actual VirusTotal API key.</p>
+            <p>Open <span class="code">popup.js, background.js</span> and replace <span class="code">'YOUR_VIRUSTOTAL_API_KEY'</span> with your actual VirusTotal API key.</p>
             <li class="step"><h4>Load the Extension in Your Browser:<h4></li>
             <p>Follow the steps below to load the extension in your browser:</p>
             <ul>
