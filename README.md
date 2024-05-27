@@ -3,6 +3,7 @@
     <div class="container">
         <h1>SafeWeb: Browser Extension for URL Safety Check</h1>
         <p>This browser extension enhances your online security by checking the URLs of websites you visit and alerting you if they are potentially malicious. Follow the steps below to set up and use the SafeWeb extension:</p>
+        <p><h5>Examine the sample or preview located in the <a href="/Demo_Samples" >Demo_Samples directory.</a></h5></p>
         <ol>
             <li class="step"><h4>Clone or Download the Repository:</h4></li>
             <p>Clone or download the project repository from GitHub to your local machine.</p>
