@@ -25,7 +25,7 @@
                 </ol>
             </ul>
         </ol>
-        <p class="note"><h3>Note: Make sure to replace 'YOUR_VIRUSTOTAL_API_KEY' with your actual VirusTotal API key before loading the extension.</h3></p>
+        <p class="note"><h3>Note:</h3> Make sure to replace 'YOUR_VIRUSTOTAL_API_KEY' with your actual VirusTotal API key before loading the extension.</p>
     </div>
 </body>
 </html>
